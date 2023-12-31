@@ -1,13 +1,14 @@
 # VanillaContest2023
 # https://gamebanana.com/mods/478257
 
-RecordCount: 1511
+RecordCount: 1528
 
 console load VanillaContest2023/1-Submissions/GlowWoomii
    1
 
 #Start
  193
+
 #lvl_pit
    1,R,J
   11,R,K
@@ -20,8 +21,6 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,K
    3,J,G
   40
- #t = 326
- #x = 51
 
 #lvl_start
   10,J,G
@@ -36,18 +35,20 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   11,R,U,X
   11,R,J,G
   12,R
+##
    8,L,J
    1,L
   11,R,Z
-   9,R,J
+   5,R,J
+   1,J
+   3,R,J
    7,R
   15,U,X
    7,R
    3
   13,U,X
   40
- #t = 501
- #x = 343
+
 
 #lvl_r1
    8,R,J
@@ -242,7 +243,8 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,L,X
   10,L,J
   14,L,U,X
- 136
+ 135
+
 ChapterTime: 0:37.417(2201)
 
 
