@@ -1,4 +1,4 @@
-RecordCount: 102
+RecordCount: 36
 
 console load VanillaContest2023/1-Submissions/Flagpole1up
    1
@@ -162,8 +162,6 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
 #lvl_d
   12,R,J
   11,U,X
-#0:16.354(962)
-
    1,J
    6,R,J
   14,L,J
@@ -177,8 +175,8 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    4,R,Z
    1,R,J
    6,R
-   1,R,J
-   3,R
+   2,R,J
+   2,R
   20,R,D,X
    6,R,J
    5,R
@@ -189,9 +187,8 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    5,R,D
    9,R,J
    5,R
-#0:19.380(1140)
-  10,R,J
-  11,R
+   8,R,J
+  12,R
   16,R,U,X
    1,R,K,G
    1,D
@@ -660,4 +657,4 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    1,L,J,G
   60,L,K,G
 
-ChapterTime: 1:22.535(4855)
+ChapterTime: 1:22.518(4854)
