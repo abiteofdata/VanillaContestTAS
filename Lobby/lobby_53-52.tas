@@ -3,13 +3,12 @@ console load VanillaContest2023/0-Lobbies/Lobby 2656 448
 
 #Start
   36
-   7,L,Z
-  18,L,J
-  11,U,X
-   5,L,J
+  10,L,C
+  10,L,J
+  12,L,U,Z
+   1,R
+   7,J,G
+   2,L,K,G
    8,L
-   2,L,J
-   4,L
    1,N
-#0:00.850(50)
-
+#0:00.765(45)
