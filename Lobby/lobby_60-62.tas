@@ -1,0 +1,20 @@
+console load VanillaContest2023/0-Lobbies/Lobby 2192 616
+   1
+
+#Start
+  36
+  10,R,Z
+   4,R,J
+   1,R
+   1,R,J
+   8,R,D,X
+   5,R,K,G
+   1,R,J,G
+   6,R
+   1,R,J
+   4,R
+  14,R,J
+  15,R,D,X
+   6,R,D
+   1,N
+#0:01.156(68)
