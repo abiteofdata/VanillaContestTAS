@@ -1,0 +1,30 @@
+# VanillaContest2023
+# https://gamebanana.com/mods/478257
+
+RecordCount: 36
+
+console load VanillaContest2023/0-Lobbies/Lobby 640 760
+   1
+
+#Start
+  36
+
+#lvl_Center
+   7,L,D,X
+  11,L,J
+   8,L,K,G
+   1,L
+  10,L,D,X
+   4,L,J,G
+   9,L
+   2,L,J
+  43
+
+#lvl_Left
+   5,L,J
+  15,L,D,X
+  15,L,D,C
+  41,L,D
+   4,L
+   1,N
+#0:02.737(161)
