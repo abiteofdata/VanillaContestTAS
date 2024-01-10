@@ -1,11 +1,10 @@
-RecordCount: 522
+RecordCount: 572
 
 console load VanillaContest2023/1-Submissions/qtpi
    1
 
 #Start
  190
-
 #lvl_a-01
    4,L
    9,L,J
@@ -16,19 +15,23 @@ console load VanillaContest2023/1-Submissions/qtpi
  233,R,C
    7,R,D,X
   43
-
 #lvl_a-02
    3,R,D,X
    5,R,J
   15,R,D,X
-   1,R,J
-  21,R
-  14,R,J
-   2,J
-   2,R,J
-  11,R,U,X
-   5,R,J,G
+   7,R,J
+  15,R,D,X
    4,R
+   4,R,D
+  10,R,J
+   5,R
+   3
+  13,U,X
+#0:06.596(388)
+
+ 
+#0:06.630(390)
+
    2,L
   12,L,D,X
   26,L
@@ -39,7 +42,6 @@ console load VanillaContest2023/1-Submissions/qtpi
    1,R,J
    4,R
   40
-
 #lvl_a-03
   11,R
    4,R,J
@@ -83,7 +85,6 @@ console load VanillaContest2023/1-Submissions/qtpi
    1
    4,R
   40
-
 #lvl_a-04
    3,R
   14,R,U,X
@@ -97,12 +98,18 @@ console load VanillaContest2023/1-Submissions/qtpi
 #6f bhop
    8,L
    1,L,J,G
+   1
+   1,K
    5,L,Z
    1,L,J
-   7
-   2,L,J
-  18,L,D
-  24,R,D
+   6,L
+   1,L,J
+   8,L,D
+  33,R,D
+#0:17.340(1020)
+
+#0:17.357(1021)
+
   46,R,X
    7
   14,L,D,C
@@ -118,7 +125,6 @@ console load VanillaContest2023/1-Submissions/qtpi
    1,R,J
    3,R
   40
-
 #lvl_a-05
    4,R
    3,R,J
@@ -149,7 +155,6 @@ console load VanillaContest2023/1-Submissions/qtpi
    1,R,J
   13,R,D,X
   40
-
 #lvl_a-06
    4,R,D
    6,R,D,J
@@ -177,7 +182,6 @@ console load VanillaContest2023/1-Submissions/qtpi
    5,R,D,X
    1,R,J
   40
-
 #lvl_a-07
    1
    6,R
@@ -219,7 +223,6 @@ console load VanillaContest2023/1-Submissions/qtpi
   18,R,J
   12,R,D,X
   40
-
 #lvl_a-08
    4,R
    9,R,J
@@ -233,7 +236,6 @@ console load VanillaContest2023/1-Submissions/qtpi
   45,U,C
    9,R,U,X
   43
-
 #lvl_b-01
    4,J,G
    8,K,G
@@ -250,4 +252,4 @@ console load VanillaContest2023/1-Submissions/qtpi
   32,U,X
  135
 
-ChapterTime: 0:42.279(2487)
+ChapterTime: 0:42.228(2484)
