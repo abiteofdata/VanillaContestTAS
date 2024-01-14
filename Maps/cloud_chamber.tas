@@ -1,8 +1,7 @@
-RecordCount: 579
+RecordCount: 599
 
 console load VanillaContest2023/1-Submissions/nascence
    1
-
 #Start
 #lvl_a-01
    6,R,D,X
@@ -21,7 +20,6 @@ console load VanillaContest2023/1-Submissions/nascence
    1,R,K
   12,R,D,X
   40
-
 #lvl_a-02
    4,R,D
    6,R,J
@@ -44,22 +42,23 @@ console load VanillaContest2023/1-Submissions/nascence
    9,R,J
    4,R
   18,R,U,Z
-  11,R,C
+  11,R,X
    8,R,J
   16,R,K
   15,U,X
    1,R,J,G
    1
    1,J,G
+
 #idt all of this is necessary
    1,R,J
    2,R
    3,R
    2
-   2,L
-   5,L
+   1,L,J
+   6,L
    5,L,Z
-   3,R,J
+   2,R,J
    4,R
    1,R,J
    3,R
@@ -67,7 +66,6 @@ console load VanillaContest2023/1-Submissions/nascence
    1,R,J,G
    8,R
   40
-
 #lvl_a-03
 #   3,R
 #   9,R,D,J
@@ -321,4 +319,4 @@ console load VanillaContest2023/1-Submissions/nascence
   15,U,X
  135
 
-ChapterTime: 0:40.834(2402)
+ChapterTime: 0:40.817(2401)
