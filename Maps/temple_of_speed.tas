@@ -1,0 +1,114 @@
+RecordCount: 212
+
+console load VanillaContest2023/1-Submissions/Puggyplayz
+   1
+
+#Start
+ 190
+
+#lvl_a-01
+  10,L,Z
+   1,R,J
+   8,R
+   3,R,J
+  10,J
+  18,U,X
+  17,R
+  15,U,Z
+   1,R
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   2,R,K,G
+   7,R
+   1,L,J
+  15,R,Z
+   2,R,D
+   1,R,J
+  30,R,D,X
+  10,R
+Repeat 4
+   1,R,D
+   1,R
+EndRepeat
+   7,R,D
+  10,R,D,X
+   1,L,J
+  16,L,D
+  12,L,D,X
+   1,R,J
+   2,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_a-02
+   9,R,D,X
+   7,R,J
+   7,R,D
+  12,D,X
+   6,R,J
+  15,R,D,X
+   2,R,J
+   6,R,D,X
+   1,L,J,G
+   1,R,J
+  17,R
+  26,R,J
+  23,R
+  14,R,U,X
+   8,R,J,G
+  40
+
+#lvl_a-03
+   2,R,J,G
+  14,U,X
+  12,L,J
+   6,R,J
+  12,R,K,G
+   4,J,G
+  40
+
+#lvl_a-04
+  10
+   2,K,G
+  13,R,J,G
+  10,L,Z
+   2,R,J
+   7,R
+  14,R,U,X
+  21,R,J,G
+   1,L
+  43,R,D
+  40
+
+#lvl_a-05
+   2,L,D
+   7,D
+  18,R,D
+  13,L,Z
+   1,R,J
+   1,R
+  17,R,D,X
+   1,R,J
+   2,J
+   4,R,K,G
+  15,R,D,X
+   9,R,J
+   9,R
+   1,R,J
+  10,R
+   1,J
+   7,J
+  12,K,G
+   7,R,U,X
+  40
+
+#lvl_a-06
+   7,R,U,X
+ 135,R,D
+
+#0:17.068(1004)
