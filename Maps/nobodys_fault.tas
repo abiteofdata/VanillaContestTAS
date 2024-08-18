@@ -1,7 +1,7 @@
 # VanillaContest2023
 # https://gamebanana.com/mods/478257
 
-RecordCount: 1541
+RecordCount: 1567
 
 console load VanillaContest2023/1-Submissions/GlowWoomii
    1
@@ -40,8 +40,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
    3,R,J
    7,R
   15,U,X
-   7,R
-   3
+  10,R
   13,U,X
   43
 #t:472
@@ -49,7 +48,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
 #lvl_r1
    5,R,J
    6,J
-  16,U,X
+  14,U,X
   12,L,J
    5,R,K,G
    5,K
@@ -61,7 +60,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,R,J,G
    7,R,K,G
   40
- #t = 593
+ #t = 591
 
 #lvl_r2
    3
@@ -77,7 +76,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
    1,K
    7,R,K
   40
- #t = 732
+ #t = 730
  #x = 224
 
 #lvl_r3
@@ -91,7 +90,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   18,R,J,G
   18,R,K,G
   43
- #t = 872
+ #t = 870
 
 #lvl_r4
   11,L,J
@@ -107,7 +106,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   12,U,X
   13,R,J
   43
- #t = 1057
+ #t = 1055
  #x = -91
 
 #lvl_r5
@@ -202,7 +201,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
    7,L,K
   10,L,J,G
   43
- #t = 1826
+ #t = 1824
 
 #lvl_r8
   11,L,J,G
@@ -230,7 +229,7 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,J,G
    9,K,G
   43,J
- #t = 2011
+ #t = 2009
 
 #lvl_endroom
   12,J
@@ -238,6 +237,6 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,L,J
   14,L,U,X
  136
-ChapterTime: 0:36.958(2174)
+ChapterTime: 0:36.924(2172)
 
 
