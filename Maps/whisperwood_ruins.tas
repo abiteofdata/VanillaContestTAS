@@ -1,4 +1,4 @@
-RecordCount: 156
+RecordCount: 403
 
 console load VanillaContest2023/1-Submissions/Flagpole1up
    1
@@ -39,7 +39,7 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    3,R,D
    2,R
    1
-#225
+## 
    6,L,Z
    1,R,J
    6,R
@@ -55,6 +55,7 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    1,L,K,G
    6,R,J
    7,R
+##
    4,R,Z
    2,R,J
    2,R,K,G
@@ -98,60 +99,50 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    9,R
    1,R,J
   40
-#510
 
 #lvl_c
    9,R,J
   15,R,D,X
-  18,R
+  19,R
+   6,L,Z
    1,R,J
-  13,R,D,X
-  17,R,J
-   9,R
-   8,R,J
-   1,K
-   6,L,J
-  15,U,X
-  15
-   5,D
-   8,R,D
-   4,R
-   2,R,D
-   1,G
-   1,R,J,G
-   1,R
-  14,R,D
-   2,R
-   1,R,D
-   4,R,X
-  11,R,J
    5,R
-   1,R,K,G
-   7,R
-   5,R,Z
+  11,R,J
+   9,R
+  15,R,U,X
+   5,R
+  19,D
+   9,R,D
+   3,R
+   3,R,D
+  18,R,D,X
+   4,R,J
+  12,R,K,G
+##
+   6,R,Z
    1,R,J
    8,R
    1,R,J
   16,R,D,X
-  10,R,J
-   1,R
-   4
-   1,R
+   7,R,J
+   5,R
+   4,R,J
    1,K
-   9,L,K
-   4,L
-   1
-   1,K
+  10,L,K
+   5,L
    1,L,K
-   1,K
+   1,L
+   1,L,K
   15,U,X
   10,R,D
-  12,J
+  10,J
+   2
    5,R,Z
    1,R,J
    6,R
    5,R,J
   17,R,D,X
+##
   71,D
   14,L,D,X
    1,R,J
@@ -656,5 +647,6 @@ console load VanillaContest2023/1-Submissions/Flagpole1up
    1,L,K,G
    1,L,J,G
   60,L,K,G
+#4824
 
-ChapterTime: 1:22.501(4853)
+ChapterTime: 1:22.008(4824)
