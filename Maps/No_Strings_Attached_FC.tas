@@ -1,12 +1,11 @@
-RecordCount: 2076
+RecordCount: 2086
+console load VanillaContest2023/1-Submissions/Purppelle
+   1
 
 #Start
-   1,Q
-   1,J
-  31
+  33
 
 #lvl_0
-  33
    1,R,D,J,X
   11,R,J,G
    1,R,G
@@ -223,7 +222,7 @@ RecordCount: 2076
    5,R,J
    9,R,D,X
    3,R,J
-  
+
 #lvl_a-05
   41
    2,R,J
@@ -387,7 +386,7 @@ RecordCount: 2076
    4,L,J,G
   12,L,K,G
 
-#lvl_a-08b(0) 
+#lvl_a-08b(0)
   41
    9,L,D,X
   15,L,J
@@ -482,5 +481,5 @@ RecordCount: 2076
    6,R,J
   14,R,U,X
  136
-
+#6149
 ChapterTime: 1:44.533(6149)
