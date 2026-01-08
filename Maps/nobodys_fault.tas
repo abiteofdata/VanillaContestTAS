@@ -1,7 +1,7 @@
 # VanillaContest2023
 # https://gamebanana.com/mods/478257
 
-RecordCount: 1567
+RecordCount: 2482
 
 console load VanillaContest2023/1-Submissions/GlowWoomii
    1
@@ -12,13 +12,12 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
 #lvl_pit
    1,S
    1,D,J
-   1
-   1,J
+   1,O
   68
    7,U,X
   40
- #t = 306
- #x = 48
+#t = 305 (-1f)
+#x = 48
 
 #lvl_start
    8,J
@@ -30,45 +29,41 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   11,R,U,X
   11,R,J,G
   12,R
-#t:368
+#t:367
    7,J
-   1,L,J
-   1,L
-  10,R,Z
-   5,R,J
-   1,J
-   3,R,J
-   7,R
-  15,U,X
-  10,R
-  13,U,X
+   2,L,J
+  10,R,X
+  13,J
+  15,R,U,X
+   9,R
+   7,R,J
+  10,U,X
   43
-#t:472
+#-4f replace hyper into updash with super into upright
+#+4f get into position for transition wallbounce
+#t:471 (-0f)
 
 #lvl_r1
-   5,R,J
-   6,J
-  14,U,X
-  12,L,J
-   5,R,K,G
-   5,K
-   4,R,K
-   7,J,G
-   2,K,G
-   2,L,K
-   3,K
-  10,R,J,G
-   7,R,K,G
-  40
- #t = 591
+  16,L,J
+   2,J
+  15,U,X
+   1,L
+  29,R,J
+  12,R,K,G
+   1,J,G
+   1,K
+  43
+#-5f transition wallbounce
+#t = 585 (-5f)
 
 #lvl_r2
-   3
    1,J
-  11,L
-  21,L,J
-  16,U,J,X
-  30,R,K
+  10,L
+  16,L,J
+   1,J
+  15,U,X
+   1
+  29,R,K
    1,R,J,G
    1,K
    4,R,K
@@ -76,160 +71,204 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
    1,K
    7,R,K
   40
- #t = 730
- #x = 224
+#-2f wallkick in prev room for more distance
+#-1f get back to the wall sooner after wallbouncing
+#-3f cornercorrect
+#t = 718 (-6f)
+#x = 224
 
 #lvl_r3
   12,R,J
-  12,L,K
-   6,L,J
-   5,L
-  10,R,J,G
-   9,K,G
-  16,R,U,X
-  18,R,J,G
-  18,R,K,G
-  43
- #t = 870
-
-#lvl_r4
-  11,L,J
-  12,U,X
-  24,L,J
-   9,L
-  14,L,D,X
-  28,L,J
-  14,L,X
-  13
-   7,L
-   3,L,J
-  12,U,X
-  13,R,J
-  43
- #t = 1055
- #x = -91
-
-#lvl_r5
-   5,J
-   7,R,J
-   4,R,K,G
-   7,U,X
-   6,R,J,G
-   7,R
-   8,R,X
+  11,L,K
+   1,K
    1,J
-  12,R
-  13,R,X
-   1,L,J
-   2,R
-  15,U,X
-  12,L,K,G
-  10,L,J,G
-   8,L
-   4,L,Z
-   1,L,J
-   8
-   1,J
+   4,L,J
+   1,K
+   1,L,K
+   1,L
    1
-  13,U,X
-   6,R
-   1,R,J
-  30,L,J
-  13,K
-   1,R,J
-   4,R
-   2,K
-   5,J
-   4,K
+   1,L
+   1,R,J,G
+   1,L,J
+  11,R,J
+   1,R,K,G
+  16,R,J,G
+  15,U,X
+   3,R
    8,J
   43
- #x = -4
+#-1f added cornerkick for earlier cornercorrect
+#-15f dcb into updash + wallbounce instead of upright
+#842 (-16f)
+
+#lvl_r4
+   8,R
+   3
+  12,U,X
+  24,L,J
+   8,L
+  14,L,D,X
+  20,L,J
+   8,L
+  15,L,X
+   4
+  11,U,Z,AL,MR
+   8
+   4,J
+   2,K
+   1,R,J,G
+   1,L,J
+  10,R,J
+   3,K
+  43
+#-7f do an upright after hitting the dash block instead of a wallbounce
+#1020 (-7f)
+
+#lvl_r5
+  11,L
+  12,R,U,Z
+   4,R,J,G
+   9,R
+   6,R,X
+   1,R,J
+   5,R
+   1,R,K
+   9,R
+   6,R,J
+  15,U,Z
+   1,L,K,G
+   5,K
+   1,R,K
+   3,L,K
+   1,L,J,G
+   2,J
+   2,L,J
+   1,L
+   1,L,K,G
+   1,L,J,G
+  10,L
+   3,J
+   1,L,J
+  15,U,Z
+   1,R
+  29,L,J
+  13,K
+   1,J
+   4,R
+   1,K
+   5,J
+   4,K
+   1,L,J,G
+   7,J
+  43
+#-2f upright demo breaking the first block
+#-4f jump forwards after breaking the second block
+#-5f walk & jump instead of rev super
+#-8f dcb instead of hyper before the wallbounce
+#-3f updemo spiked wallbounce to accommodate more height
+#t = 1234 (-22f)
+#x = -17
 
 #lvl_r6
-   9,L
-   9,J,G
-  11,R,K
-  14,U,X
-  26,R,J
-  20,R
-  10,L,J
-   3,J
-  15,U,X
-   6,R,J,G
-   5,R,K,G
-   8,R
+   2,R
+   1
+   2,R
+   1,L
+   1,K
+   2,J,G
+  19,R,J
+  14,R,U,X
+  13,R
+  13,R,U,X
+   2,J,G
+   7,R
+   9,L,J
    4,J
+  15,U,X
+  10,R,J,G
+   7,R
+   1,J
+   3,R,J
   17,U,X
-  11,R
-  15,U,X,G
-   5,R,J,G
+   8,R
+   1,J
+   4,R,J
+  15,U,X
   43
+#-4f faster landings
+#-19f better movement from the left to right side
+#1427 (-23f)
 
 #lvl_r7
-   5,L,J
-   7,L
-   1,L,J
-   3,R,J
-  10,J
-  14,U,X
-   4
-  16,R,J,G
-  15,R,K,G
-   8,R,J,G
-   8,R,K,G
-   1,J
-  27,R,J,G
-   2,K,G
-   1,L,K,G
-  17,R,K
-   3,J
-  14,U,X
-   9,R,J
-  11,R,K,G
-  22,R
-   7,R,J
-  11,U,X
+   5
+  10,L,J
+   8,J
+  17,U,X
+   8,L,J
+  11,J
+  12,K,G
+   9,J,G
+   2
+   3,L
+   1
+   1,L
+  15,U,Z
+   1,R
+   8,R,J
+   9,R
+   1,R,J,G
+   7,R,K,G
+  18,R
+   8,R,J
+  10,U,X
    6,J,G
-   8,R
+   7,R
    9,R,U,X
    6,R,J,G
-   8,R,G
-  12,U,X
-   4,R,J
-  10,K,G
-   8,J,G
+   7,R
+   9,U,Z
+  10,R
+  12,K,G
+   3,J,G
    7,L,K
-  10,L,J,G
+   7,L,J,G
   43
- #t = 1824
+#-49f transition wb, use extra height for more wbs
+#-2f better landings
+#-3f move at higher vertical speeds
+#1690 (-54f)
 
 #lvl_r8
   11,L,J,G
    5,L,D,X
-   4,L,J
-   1,K,G
-   9
-   1,R
+   2,L,J
    2,L
+   1,K,G
+   9,L
+   1,R
    8,L,J
    2,R,K,G
-   7,L,K
-   2,R,J,G
-   3,L,J
-  10,J
-  14,U,X
+   6,L,K
+   1,R,K
+   3,R,J,G
+   1,R,K,G
+   5,L,K
+   5,K
+  15,U,X
+  10,R
+   4,R,X
   12,R,J
-  10,R,D,X
-   2,R,J
-   4,R,K,G
-   2,R
+   1,L,J
+   3,K,G
+   8,R
   14,U,X
-   8,R,J
-   7,L,K
-  10,J,G
-   9,K,G
+  16,L,J
   43,J
- #t = 2009
+#-1f optimal climbjumps
+#-3f better landings
+#-2f instant super + landing instead of extended super
+#-6f do a longer wallbounce
+#1863 (-12f)
 
 #lvl_endroom
   12,J
@@ -237,6 +276,6 @@ console load VanillaContest2023/1-Submissions/GlowWoomii
   10,L,J
   14,L,U,X
  136
-ChapterTime: 0:36.924(2172)
 
-
+#2026 (-146f)
+ChapterTime: 0:34.442(2026)
